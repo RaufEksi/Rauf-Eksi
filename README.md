@@ -1,1 +1,52 @@
 # Rauf-Eksi
+# Hi there, I'm Rauf Eksi 👋
+
+## İTÜ Matematik & Ekonomi Öğrencisi | Aspiring Quant
+
+I am a Mathematics student at **Istanbul Technical University (ITU)**, minoring in **Economics**. My focus lies at the intersection of **Quantitative Finance**, **Data Science**, and **Algorithmic Trading**. I enjoy solving complex problems using mathematical modeling and Python.
+
+
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** Python, SQL, LaTeX
+* **Data Science & Analysis:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+* **Quantitative Finance:** `ffn`, `QuantStats`, Technical Analysis, Backtesting
+* **Mathematics:** Numerical Analysis, Stochastic Processes, Optimization Methods (BFGS, Least Squares)
+
+### 📜 Certifications
+
+* 🏆 [**IBM Data Science Professional Certificate**](https://coursera.org/share/52e56897b11c389318a9bf3c2cc7e863) - *IBM*
+* 📚 **AI Engineering Professional Certificate** - *[Platform Adı örn: Coursera/IBM]* *(In Progress)*
+---
+
+### 🚀 Projects & Portfolio
+
+#### 📈 Algorithmic Bitcoin Trading Bot (Python)
+* Developed a trading bot focused on cryptocurrency markets.
+* Implemented custom strategies and performed backtesting using `QuantStats`.
+* *Status: Active Development*
+
+#### 👂 Least Squares Model for Human Hearing (Academic)
+* A computational linear algebra project modeling the mechanics of human hearing.
+* Applied the Least Squares Method to fit data and simulate auditory responses.
+* *Status: Completed*
+
+#### 📊 Social Media Sentiment Analyzer (Upcoming)
+* A data analysis tool designed for marketing agencies to interpret customer sentiment.
+* Uses NLP to extract keywords and visualize brand perception from social media comments.
+* *Status: In Progress*
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[raufeksi]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[raufeksi]&layout=compact&theme=radical)
+
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/rauf-ek%C5%9Fi-b47255298/]
+* **Email:** [raufeksi@hotmail.com]
