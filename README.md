@@ -16,7 +16,7 @@ I am a Mathematics student at **Istanbul Technical University (ITU)**, minoring 
 ### 📜 Certifications
 
 * 🏆 [**IBM Data Science Professional Certificate**](https://coursera.org/share/52e56897b11c389318a9bf3c2cc7e863) - *IBM*
-* 📚 **AI Engineering Professional Certificate** - *[Platform Adı örn: Coursera/IBM]* *(In Progress)*
+* 📚 **AI Engineering Professional Certificate** - *[Coursera/IBM]* *(In Progress)*
 ---
 
 ### 🚀 Projects & Portfolio
@@ -40,11 +40,12 @@ I am a Mathematics student at **Istanbul Technical University (ITU)**, minoring 
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[raufeksi]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[raufeksi]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[RaufEksi]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[RaufEksi]&layout=compact&theme=radical)
 
 
 ---
+
 
 ### 📫 Connect with Me
 
