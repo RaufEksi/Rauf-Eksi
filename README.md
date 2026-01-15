@@ -1,9 +1,8 @@
 # Rauf-Eksi
 # Hi there, I'm Rauf Eksi 👋
 
-## İTÜ Matematik & Ekonomi Öğrencisi | Aspiring Quant
-
-I am a Mathematics student at **Istanbul Technical University (ITU)**, minoring in **Economics**. My focus lies at the intersection of **Quantitative Finance**, **Data Science**, and **Algorithmic Trading**. I enjoy solving complex problems using mathematical modeling and Python.
+## ITU Mathematical Engineering Student | Economics Minor | Aspiring Quant
+I am a Mathematical Engineering student at **Istanbul Technical University (ITU)**, minoring in **Economics**. My focus lies at the intersection of **Quantitative Finance**, **Data Science**, and **Algorithmic Trading**. I enjoy solving complex problems using mathematical modeling and Python.
 
 
 ### 🛠️ Tech Stack & Skills
